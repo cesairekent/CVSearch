@@ -1,0 +1,2 @@
+rootProject.name = "CV Search"
+include ':app'
